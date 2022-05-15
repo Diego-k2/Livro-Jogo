@@ -18,3 +18,5 @@ A cada nova opção, o usuário verá novos parágrafos, imagens, vídeos ou qua
 O começo da história é um robô acordando sozinho em uma cidade deserta com pouca bateria.        
 No começo da história pergunte o nome do personagem principal. Utilize o nome do personagem em outros pontos da história. 
  </p>
+
+JOGUE AQUI: https://diego-k2.github.io/Livro-Jogo/ e descubra o final do robo Hank
