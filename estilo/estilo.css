@@ -6,8 +6,7 @@
 body {
     min-width: 700px;
     font-family: 'Poppins', sans-serif;
-    background-color: #3430F0;
-    
+    background-color: #3430F0;  
 }
 
 button {
@@ -39,8 +38,8 @@ button:hover{
 }
 
 .imagem-size {
-    width: 550px;
-    height: 400px;
+    width: 65%;
+    height: 40%;
     margin: 2% 1%;
     border-radius: 10px;
 }
@@ -51,4 +50,13 @@ button:hover{
     color: #000;
     font-weight: 800;
     padding: 2%;
+}
+
+.dark-mode-body {
+    background: #2C07E3;
+}
+
+.dark-mode-content {
+    background: #2442E3;
+    color: #fff;
 }
